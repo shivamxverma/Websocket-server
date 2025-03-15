@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/shivamxverma/Websocket-server#readme",
+  "bugs": {
+    "url": "https://github.com/shivamxverma/Websocket-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivamxverma/Websocket-server.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "uuid": "^11.1.0",
+    "ws": "^8.18.1"
+  }
+}
